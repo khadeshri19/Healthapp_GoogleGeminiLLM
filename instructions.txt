@@ -19,6 +19,5 @@ conda activate venv/
 ***Health LLM APP is uploaded on Streamlite. URL is - 
 https://healthappappgeminillm-6yhhy9nwjame5rupsg9pnd.streamlit.app/
 
-***Github link
-https://github.com/YogeshRaje/Healthapp_GoogleGeminiLLM.git
+
 
